@@ -60,7 +60,7 @@ body {
   margin-right: .7rem; }
 
 .header {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.411), rgba(0, 0, 0, 0.411)), url(./../../../images/header-background.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.411), rgba(0, 0, 0, 0.411)), url(./../images/header-background.jpg);
   height: 100vh;
   background-attachment: fixed; }
   .header__hero-content {
