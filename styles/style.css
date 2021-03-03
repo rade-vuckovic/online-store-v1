@@ -216,7 +216,7 @@ body {
     display: flex; }
   .history__img--container {
     width: 50%;
-    background-image: url("./../../../images/header-background.jpg");
+    background-image: url("./../images/header-background.jpg");
     background-attachment: fixed;
     background-position: center;
     margin-right: 2rem;
